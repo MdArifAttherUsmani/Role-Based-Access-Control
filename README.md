@@ -80,3 +80,11 @@ npm install
 Start the Frontend Application 💻:
 To start the frontend application, use:
 npm run dev
+
+4. Test the Application ✅
+Now that both the frontend and backend are running:
+
+Open your browser and go to http://localhost:5173 to test the frontend.
+
+Ensure that the backend is running and accessible at http://localhost:4000.
+
